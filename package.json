@@ -1,0 +1,25 @@
+{
+  "name": "wynncraft-item-api",
+  "version": "1.0.0",
+  "description": "A node.js interface for getting the latest items from the Wynncraft API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theonlygusti/wynncraft-item-api.git"
+  },
+  "keywords": [
+    "wynncraft",
+    "minecraft",
+    "node.js",
+    "api"
+  ],
+  "author": "NoobDoesMC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theonlygusti/wynncraft-item-api/issues"
+  },
+  "homepage": "https://github.com/theonlygusti/wynncraft-item-api#readme"
+}
